@@ -145,7 +145,7 @@ ORDER BY "Number of Staff with the same Surname" DESC;
 
 
 
-Conclusion
+### Conclusion
 Through this project, we successfully created a relational database schema for Pewlett Hackard's employee data, imported the data from CSV files, and executed various SQL queries to analyze the data.
 
 The data analysis provided insights into:
